@@ -3,7 +3,7 @@ divisor = 2
 primo = True
 
 if numero == 1:
-    print("1 não eh primo")
+    print("1 nao eh primo")
 elif numero > 0:
     while divisor <= numero:
         resto = numero % divisor
